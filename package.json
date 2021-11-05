@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Marvin <huo_marvin@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/config-conventional": "^14.1.0"
+  }
 }
